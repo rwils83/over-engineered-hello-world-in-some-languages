@@ -12,7 +12,7 @@ fn main() {
     for y in &world_array {
         world_str.push(*y);
     }
-    
+
     print!("{} ", hello_str);
     print!("{}!\n", world_str);
 }
