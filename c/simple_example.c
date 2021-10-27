@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  char text[] = "Hello World";
-  printf("%s", text);
-  return 0;
+    char text[] = "Hello World";
+    printf("%s", text);
+    return 0;
 }
